@@ -14,19 +14,30 @@ Thus, this workshop is about ‘more than gis’ and ‘more than critical’ ap
  
 ### Tentative Format:
 **Morning:** Introductions, lightning-fast presentations of participants’ work
+
 **Afternoon:** Engagement with community partners, potentially including a tour of geographical organizing in New Orleans, talks by those pursuing social and environmental justice in the region, or a hands-on data workshop on a topic important to New Orleans residents.
+
 **Late afternoon:** Drinks and dinner
  
 ### How to join us:
 While the workshop is open to all interested parties, we ask that you submit a 100 word expression of interest that describes either A. a relevant project you would like to share with the group or B. your thoughts on how you would like to see ‘Critical GIS’ expanded as a field of research. Please email **craig.dalton@hofstra.edu** by **March 1, 2017**.
  
 **Organizers:** (alphabetical)
+
 Luis Alvarez Leon, Clark University
+
 Craig Dalton, Hofstra University
+
 Rina Ghose, University of Wisconsin - Milwaukee
+
 Jack Gieseking, Trinity College
+
 Liz Mason-Deese, George Mason University
+
 Eric Nost, University of Wisconsin - Madison
+
 Jim Thatcher, University of Washington Tacoma
+
 Clancy Wilmott, University of Manchester
+
 Matthew Wilson, University of Kentucky
