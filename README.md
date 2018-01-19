@@ -12,6 +12,7 @@ Thus, this workshop is about ‘more than gis’ and ‘more than critical’ ap
 **Location:** New Orleans, near where the AAG conference will be the next day.
 **Workshop date:** April 9th (Monday before the AAG).  10 am - 4 pm
  
+ 
 ### Tentative Format:
 **Morning:** Introductions, lightning-fast presentations of participants’ work
 
@@ -19,8 +20,10 @@ Thus, this workshop is about ‘more than gis’ and ‘more than critical’ ap
 
 **Late afternoon:** Drinks and dinner
  
+ 
 ### How to join us:
 While the workshop is open to all interested parties, we ask that you submit a 100 word expression of interest that describes either A. a relevant project you would like to share with the group or B. your thoughts on how you would like to see ‘Critical GIS’ expanded as a field of research. Please email **craig.dalton@hofstra.edu** by **March 1, 2017**.
+ 
  
 **Organizers:** (alphabetical)
 
